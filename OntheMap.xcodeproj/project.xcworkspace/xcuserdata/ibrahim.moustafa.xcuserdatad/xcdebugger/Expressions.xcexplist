@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VariablesViewState
+   version = "1.0">
+   <ContextStates>
+      <ContextState
+         contextName = "UdacityClient.(taskForPOSTMethod(UdacityClient) -&gt; (String, parameters : [String : AnyObject], jsonBody : String, completionHandlerForPOST : (result : AnyObject!, error : NSError?) -&gt; ()) -&gt; NSURLSessionDataTask).(closure #1):UdacityClient.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "error.code">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "PostLocationViewController.btnPostLocationClick(AnyObject) -&gt; ():PostLocationViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "txtLocation.text">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "UdacityClient.(Login(UdacityClient) -&gt; (String, Password : String, completionHandlerForLogin : (success : Bool, error : NSError?) -&gt; ()) -&gt; ()).(closure #1):UdacityMethods.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "results">
+            </PersistentString>
+            <PersistentString
+               value = "results[&quot;account&quot;]">
+            </PersistentString>
+            <PersistentString
+               value = "results[0]">
+            </PersistentString>
+            <PersistentString
+               value = "print(results)">
+            </PersistentString>
+            <PersistentString
+               value = "print(results[&quot;account&quot;])">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "ParseClient.PostStudentLocation(Double, longitude : Double, mediaURL : String, mapString : String, completionHandlerForPostNewLocation : (success : Bool, error : NSError?) -&gt; ()) -&gt; ():ParseMethods.swift">
+      </ContextState>
+      <ContextState
+         contextName = "LoginViewController.RequestComplete(NSData?, response : NSURLResponse?, err : NSError?) -&gt; ():LoginViewController.swift">
+      </ContextState>
+      <ContextState
+         contextName = "UdacityClient.(tmdbURLFromParameters in _A1A849AFDE6FA2D7416899C3D247723C)([String : AnyObject], withPathExtension : String?) -&gt; NSURL:UdacityClient.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "components.URL">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "UdacityClient.(Logout(UdacityClient) -&gt; ((success : Bool, error : NSError?) -&gt; ()) -&gt; ()).(closure #1):UdacityMethods.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "result[&quot;id&quot;]">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "UdacityClient.(getUserData(UdacityClient) -&gt; ((error : NSError?) -&gt; ()) -&gt; ()).(closure #1):UdacityMethods.swift">
+      </ContextState>
+      <ContextState
+         contextName = "UdacityClient.(convertDataWithCompletionHandler in _A1A849AFDE6FA2D7416899C3D247723C)(NSData, completionHandlerForConvertData : (result : AnyObject!, error : NSError?) -&gt; ()) -&gt; ():UdacityClient.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "print(parsedResult)">
+            </PersistentString>
+            <PersistentString
+               value = "parsedResult">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+   </ContextStates>
+</VariablesViewState>
